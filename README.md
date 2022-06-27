@@ -3,9 +3,8 @@
 <h2>👨‍💻 Salesforce Administrator/Developer Projects:</h2>
 
 - <b>Sales Cloud-Cruise Project</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>EduPort Higher Education Platform Project</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  
 <h2>👨‍💻 Certifications:</h2>
 
   - [Salesforce Administrator](https://trailblazer.me/id/sdemirci2)
