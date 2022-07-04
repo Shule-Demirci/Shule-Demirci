@@ -5,7 +5,7 @@
 - <b>Sales Cloud-Cruise Project</b>
 - <b>EduPort Higher Education Platform Project</b>
 - <a href="https://github.com/Shule-Demirci/ApexProjects/tree/main">Apex Projects</a> 
-- <a href="https://github.com/Shule-Demirci/Apex-Triggers>Apex Triggers</a> 
+- <a href="https://github.com/Shule-Demirci/Apex-Triggers.git">Apex Triggers</a> 
   
 <h2>👨‍💻 Certifications:</h2>
 
