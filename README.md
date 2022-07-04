@@ -4,7 +4,7 @@
 
 - <b>Sales Cloud-Cruise Project</b>
 - <b>EduPort Higher Education Platform Project</b>
--[Apex Projects] (https://github.com/Shule-Demirci/ApexProjects/tree/main)
+- <a href="https://github.com/Shule-Demirci/ApexProjects/tree/main">Apex Projects</a> 
   
 <h2>👨‍💻 Certifications:</h2>
 
