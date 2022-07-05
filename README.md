@@ -1,5 +1,5 @@
 <h1>Hi, I'm Shule! <br/><a >Salesforce Developer</a>                             
-<img src="myport.jpg" alt="Italian Trulli">
+
 <h2>👨‍💻 Salesforce Administrator/Developer Projects:</h2>
 
 
