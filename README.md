@@ -19,6 +19,15 @@
   - [Salesforce Advanced Administrator](https://trailblazer.me/id/sdemirci2)
   - [Salesforce Platform Developer 1](https://trailblazer.me/id/sdemirci2)
 
+<h2>👨‍💻 Superbadges:</h2>
+
+  - [Business Administration Specialist](https://trailblazer.me/id/sdemirci2)
+  - [Lightning Experience Reports & Dashboards Specialist](https://trailblazer.me/id/sdemirci2)
+  - [App Customization Specialist](https://trailblazer.me/id/sdemirci2)
+  - [Process Automation Specialist](https://trailblazer.me/id/sdemirci2)
+  - [Security Specialist](https://trailblazer.me/id/sdemirci2)
+  - [Apex Specialist](https://trailblazer.me/id/sdemirci2)
+
   
 <h2>📺 YouTube Videos</h2>
 
