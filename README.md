@@ -1,4 +1,6 @@
 <h1>Hi, I'm Shule! <br/><a >Salesforce Developer</a>                             
+<h2>👨‍💻 About Me</h2>
+- <a href="https://github.com/Shule-Demirci/ApexProjects/tree/main">Resume</a> 
 
 <h2>👨‍💻 Salesforce Administrator/Developer Projects:</h2>
 
