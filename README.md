@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Salesforce Administrator/Developer Projects:</h2>
 
-- < a href="https://github.com/Shule-Demirci/Cruise-Project.git">Triforcia Cruise Holiday Project</a>
+-<a href="https://github.com/Shule-Demirci/Cruise-Project.git">Triforcia Cruise Holiday Projects</a> 
 - <b>EduPort Higher Education Platform Project</b>
 - <a href="https://github.com/Shule-Demirci/ApexProjects/tree/main">Apex Projects</a> 
 - <a href="https://github.com/Shule-Demirci/Apex-Triggers.git">Apex Triggers</a> 
